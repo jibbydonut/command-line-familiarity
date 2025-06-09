@@ -1,0 +1,9 @@
+
+Welcome, adventurer! Your journey begins now. To find the next clue, you have many paths before you. Use the command "ls" to see them all. 
+
+Solve the following riddle to find the next clue. 
+
+I breathe for the Earth without a lung,
+Helping life where its begun.
+I am vast and green, a natural dome,
+What am I?
