@@ -1,0 +1,5 @@
+Congratulations! You found the treasure!
+
+The golden prize is knowledge!
+
+Now you know your way around the terminal.
