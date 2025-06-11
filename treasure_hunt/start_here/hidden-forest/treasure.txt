@@ -1,5 +1,8 @@
 Congratulations! You found the treasure!
 
-The golden prize is knowledge!
+The golden prize is knowledge! That and another task, of course. 
 
-Now you know your way around the terminal.
+To complete your quest:
+1. Create a folder in the hidden-forest stating your name. The command "mkdir" will be helpful here.
+2. Create a file in that new folder rating your experience of the treasure hunt. The command "touch/New-Item" will be helpful here.
+3. Be a good citizen and go clean up some rubbish from the beautiful beach. The command "rm" will be helpful here.
